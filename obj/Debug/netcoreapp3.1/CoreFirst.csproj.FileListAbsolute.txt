@@ -1,0 +1,13 @@
+C:\Users\au237297\source\repos\CoreFirst\bin\Debug\netcoreapp3.1\CoreFirst.exe
+C:\Users\au237297\source\repos\CoreFirst\bin\Debug\netcoreapp3.1\CoreFirst.deps.json
+C:\Users\au237297\source\repos\CoreFirst\bin\Debug\netcoreapp3.1\CoreFirst.runtimeconfig.json
+C:\Users\au237297\source\repos\CoreFirst\bin\Debug\netcoreapp3.1\CoreFirst.runtimeconfig.dev.json
+C:\Users\au237297\source\repos\CoreFirst\bin\Debug\netcoreapp3.1\CoreFirst.dll
+C:\Users\au237297\source\repos\CoreFirst\bin\Debug\netcoreapp3.1\CoreFirst.pdb
+C:\Users\au237297\source\repos\CoreFirst\obj\Debug\netcoreapp3.1\CoreFirst.csprojAssemblyReference.cache
+C:\Users\au237297\source\repos\CoreFirst\obj\Debug\netcoreapp3.1\CoreFirst.AssemblyInfoInputs.cache
+C:\Users\au237297\source\repos\CoreFirst\obj\Debug\netcoreapp3.1\CoreFirst.AssemblyInfo.cs
+C:\Users\au237297\source\repos\CoreFirst\obj\Debug\netcoreapp3.1\CoreFirst.csproj.CoreCompileInputs.cache
+C:\Users\au237297\source\repos\CoreFirst\obj\Debug\netcoreapp3.1\CoreFirst.dll
+C:\Users\au237297\source\repos\CoreFirst\obj\Debug\netcoreapp3.1\CoreFirst.pdb
+C:\Users\au237297\source\repos\CoreFirst\obj\Debug\netcoreapp3.1\CoreFirst.genruntimeconfig.cache
